@@ -37,6 +37,15 @@ terminal, o que não é possível utilizando node nativo.
 npm i readline-sync
 ````
 
+## Inicializando o projeto
+
+Após adicionar o script de start no package.json, sempre que quiser visualizar
+como o projeto está ficando, digite:
+
+````
+npm start
+````
+
 ## Sobre o programa
 
 O primeiro passo do programa é capturar um input do usuário pela dependência da
